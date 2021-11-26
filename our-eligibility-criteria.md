@@ -10,9 +10,11 @@ If applying as an open source project your project license is critically importa
 * [Fedora Software License List](https://fedoraproject.org/wiki/Licensing:Main?rd=Licensing);
 * [Open Source Hardware Association Statement of Principles](https://www.oshwa.org/definition/).
 
-We do not accept projects that are hosted under a personal profile. Please make sure your project is hosted under an profile that is not strongly associatated with an individual (i.e. an organisation account).  
+We do not accept projects that do not have a recent history of activity or an established base of dependent packages, applications or services. If your project is a fork of an existing repository there should be a material degree of activity and usage _away_ from the forked project. 
 
-If you are an open source project with an [SPDX compliant license](https://spdx.org/licenses/) with at least two maintainers, and your project is not associated with a user profile, you will be immediately approved.
+We do not accept projects that are hosted under a personal profile. Please make sure your project is hosted under an profile that is not strongly associatated with an individual (i.e. an organisation account).
+
+If you are an open source project with an [SPDX compliant license](https://spdx.org/licenses/), a recent history of activity or a current base of dependents, at least two maintainers, and your project is not associated with an individual user's profile, you will be immediately approved.
 
 If you don’t fit the above requirements, we will consider your application on a case by case basis, using the following criteria:
 
