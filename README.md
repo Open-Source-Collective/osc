@@ -5,7 +5,7 @@
 Open Source Collective's primary focus is our fiscal sponsorship program. We provide a home for nearly [3,000 open source projects on the Open Collective platform](https://opencollective.com/opensource), acccepting contributions and handling the legal, tax and acconnting processes on behalf of our member projects. 
 
 ### For maintainers
-If you're a part of an open source project looking to raise and manage money together, transparently, then we'd love to support you. Applcations to join us are always open, [our critera are very broad,](https://www.oscollective.org/how#criteria) and in many cases you may be accepted _immediately_. 
+If you're a part of an open source project looking to raise and manage money together, transparently, then we'd love to support you. Applications to join us are always open, [our critera are very broad,](https://www.oscollective.org/how#criteria) and in many cases you may be accepted _immediately_. 
 
 [Apply now](https://opencollective.com/opensource/apply). 
 
